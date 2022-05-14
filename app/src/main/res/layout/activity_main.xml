@@ -74,10 +74,10 @@
         app:layout_constraintVertical_bias="0.431" />
 
     <Button
-        android:id="@+id/btnDivision"
+        android:id="@+id/btnMultiply"
         android:layout_width="60dp"
         android:layout_height="58dp"
-        android:text="/"
+        android:text="*"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
